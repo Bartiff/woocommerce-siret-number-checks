@@ -1,0 +1,8 @@
+.wsnc-input {
+    width: 25rem !important;
+}
+.wsnc-input[readonly] { opacity: 0.5; }
+.wsnc-ndsapi-apikey,
+.wsnc-ndsapi-secretkey {
+    width: 25rem;
+}

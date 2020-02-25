@@ -1,0 +1,36 @@
+{
+  "name": "woocommerce-siret-number-checks",
+  "version": "0.1.0",
+  "description": "Siret Number Checks for WooCommerce is a plugin allowing the registration to WooCommerce with the SIRET number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch --mode=development",
+    "build": "NODE_ENV=production webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.8.4",
+    "webpack": "^5.0.0-beta.13",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-transform-runtime": "^7.8.3",
+    "@babel/preset-env": "^7.8.4",
+    "autoprefixer": "^9.7.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.4.2",
+    "cssnano": "^4.1.10",
+    "mini-css-extract-plugin": "^0.8.2",
+    "node-sass": "^4.13.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3"
+  }
+}

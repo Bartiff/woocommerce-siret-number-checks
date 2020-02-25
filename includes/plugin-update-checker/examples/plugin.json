@@ -1,0 +1,19 @@
+{
+	"name": "Siret Number Checks for WooCommerce",
+	"version": "0.1.0",
+	"download_url": "https://github.com/Bartiff/woocommerce-siret-number-checks/releases/latest/",
+
+	"homepage": "https://bartiff.net/",
+	"requires": "4.5",
+	"tested": "4.8",
+	"last_updated": "2017-01-01 16:17:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "Bartiff",
+	"author_homepage": "https://bartiff.net/",
+
+	"sections": {
+		"description": "Siret Number Checks for WooCommerce is a plugin allowing the registration to WooCommerce with the SIRET number."
+	}
+	
+}
